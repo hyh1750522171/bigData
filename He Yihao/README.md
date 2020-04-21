@@ -10,11 +10,13 @@
 
 仓库链接: https://gitee.com/hyhdmy/hm_bilibili_book
 
-![gitee仓库](gitee页面.png)
+![gitee仓库](图片/gitee页面.png)
 
+## 个人python学习仓库
 
+仓库地址：https://gitee.com/hyhdmy/python_learn
 
-
+![](图片/个人python库.png)
 
 * 有问题反馈这里：
 * QQ群: 260305404
