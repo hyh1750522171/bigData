@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d8349cf-7344-4e8d-b913-0df437b1ac13" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/He Yihao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/He Yihao/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xuexi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -79,6 +78,8 @@
       <workItem from="1571401866801" duration="1208000" />
       <workItem from="1571449876139" duration="2425000" />
       <workItem from="1587458840905" duration="310000" />
+      <workItem from="1587460899207" duration="292000" />
+      <workItem from="1587469495812" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1587458963161</created>
@@ -87,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587458963161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加个人仓库">
+      <created>1587460917431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587460917431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加个人仓库">
+      <created>1587460991311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587460991311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,21 +110,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git" />
+    <MESSAGE value="添加个人仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加个人仓库" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="5" key="CommitChangelistDialog2" timestamp="1587460916037">
+    <state x="0" y="5" key="CommitChangelistDialog2" timestamp="1587460990621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587460916037" />
+    <state x="0" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587460990621" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587459149808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587459149808" />
-    <state x="412" y="174" key="Vcs.Push.Dialog.v2" timestamp="1587460919913">
+    <state x="412" y="174" key="Vcs.Push.Dialog.v2" timestamp="1587460994142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="412" y="174" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587460919913" />
+    <state x="412" y="174" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587460994142" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bigData$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1571402360574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/He Yihao/python基础/code/01_Python基础" />

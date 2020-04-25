@@ -8,13 +8,13 @@
 
 ## 为了大家快速下载，来国内的仓库吧（两个仓库同步更新）
 
-仓库链接: https://gitee.com/hyhdmy/hm_bilibili_book
+仓库链接: https://gitee.com/muaimingjun/hm_bilibili_book
 
 ![gitee仓库](图片/gitee页面.png)
 
 ## 个人python学习仓库
 
-仓库地址：https://gitee.com/hyhdmy/python_learn
+仓库地址：https://gitee.com/muaimingjun/python_learn
 
 ![](图片/个人python库.png)
 
