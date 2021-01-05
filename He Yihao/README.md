@@ -10,8 +10,8 @@
 
 ## 黑马程序员笔记 jupyter 版本更新啦。。。
 
-- **笔记国内地址：**https://gitee.com/muaimingjun/python-video-notebook
-- **笔记国外地址：**https://github.com/hyh1750522171/python-video-notebook
+- 笔记国内地址：https://gitee.com/muaimingjun/python-video-notebook
+- 笔记国外地址：https://github.com/hyh1750522171/python-video-notebook
 
 ## 为了大家快速下载，来国内的仓库吧（两个仓库同步更新）
 
