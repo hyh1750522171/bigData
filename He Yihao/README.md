@@ -26,7 +26,9 @@
 ![](图片/个人python库.png)
 
 * 有问题反馈这里：
-* QQ群: 260305404
-* QQ: 2667004988
+* QQ群: [260305404](https://jq.qq.com/?_wv=1027&k=2qrn6xvQ)
+
+* QQ: [2667004988](http://wpa.qq.com/msgrd?v=3&uin=2667004988&site=qq&menu=yes)
+
 * vx: hyh2667004988
 * ![qq群](./图片/pythonQQ群.jpg)
