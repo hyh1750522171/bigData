@@ -109,7 +109,7 @@ see http://python.org/dev/peps/pep-0263/ for details
 * defined 已经定义
 * syntax 语法
 * invalid 无效
-* Indentation 索引
+* Indentation 缩进
 * unexpected 意外的，不期望的
 * character 字符
 * line 行
